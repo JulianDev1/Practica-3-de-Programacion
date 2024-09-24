@@ -11,6 +11,7 @@ namespace apiSuperMkd.Clases
 {
     public class opeSuperMkd
     {
+        //Esto maneja el objeto JSON
         public modSuperMkD objModMdo { get; set; }
 
         private bool validar()
@@ -33,7 +34,7 @@ namespace apiSuperMkd.Clases
 
         }
 
-        public void hallarDscto()
+        private void hallarDscto()
         {
             float d = 0;
             int tc = objModMdo.tipoClasif;
@@ -91,10 +92,24 @@ namespace apiSuperMkd.Clases
                 }
                 objModMdo.porcDscto = d;
             }
-            catch (Exception) { 
+            catch (Exception)
+            {
                 objModMdo.Error = "Error en el proceso 1";
 
             }
+
+
+        }
+
+        public void hallarDatos()
+        {
+            if (!validar())
+            {
+                return;
+            }
+            hallarDscto();
+            objModMdo.vrDscto = (objModMdo.subTotal * objModMdo.porcDscto) / 100;
+            objModMdo.vrAPagar = objModMdo.subTotal - objModMdo.vrDscto;
 
 
         }

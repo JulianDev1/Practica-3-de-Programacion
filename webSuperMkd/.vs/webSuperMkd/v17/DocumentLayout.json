@@ -3,8 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Julian\\OneDrive\\Escritorio\\Practica3\\webSuperMkd\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|webSuperMkd||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{643DE383-986E-487A-BCFE-102DA2BDB42F}|webSuperMkd\\webSuperMkd.csproj|c:\\users\\julian\\onedrive\\escritorio\\practica3\\websupermkd\\websupermkd\\frmsupermkd.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{643DE383-986E-487A-BCFE-102DA2BDB42F}|webSuperMkd\\webSuperMkd.csproj|solutionrelative:websupermkd\\frmsupermkd.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{643DE383-986E-487A-BCFE-102DA2BDB42F}|webSuperMkd\\webSuperMkd.csproj|c:\\users\\julian\\onedrive\\escritorio\\practica3\\websupermkd\\websupermkd\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|909d16b3-c8e8-43d1-a2b8-26ea0d4b6b57"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,24 +20,48 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "webSuperMkd",
+              "DocumentMoniker": "C:\\Users\\Julian\\OneDrive\\Escritorio\\Practica3\\webSuperMkd\\webSuperMkd\\webSuperMkd.csproj",
+              "RelativeDocumentMoniker": "webSuperMkd\\webSuperMkd.csproj",
+              "ToolTip": "C:\\Users\\Julian\\OneDrive\\Escritorio\\Practica3\\webSuperMkd\\webSuperMkd\\webSuperMkd.csproj",
+              "RelativeToolTip": "webSuperMkd\\webSuperMkd.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-20T00:06:01.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "frmSuperMkd.html",
               "DocumentMoniker": "C:\\Users\\Julian\\OneDrive\\Escritorio\\Practica3\\webSuperMkd\\webSuperMkd\\frmSuperMkd.html",
               "RelativeDocumentMoniker": "webSuperMkd\\frmSuperMkd.html",
               "ToolTip": "C:\\Users\\Julian\\OneDrive\\Escritorio\\Practica3\\webSuperMkd\\webSuperMkd\\frmSuperMkd.html",
               "RelativeToolTip": "webSuperMkd\\frmSuperMkd.html",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2024-09-11T00:22:30.517Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             }
           ]
         }
