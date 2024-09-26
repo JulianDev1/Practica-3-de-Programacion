@@ -19,8 +19,7 @@
         }
     </style>
 
-    <form id="form1" runat="server">
-        <div>
+
             <!- Inicio de la tabla ->
             <table style="width: 50%; border: 2px solid black">
                 <tr>
@@ -44,13 +43,13 @@
 
                     </td>
                     <td>
-                        <input type="number" name="nroDoc">
+                        <input type="number" name="nroDoc" id="txtNroDoc">
                     </td>
                     <td style="text-align: end;">
                         Nombre: 
                     </td>
                     <td>
-                        <input type="text">
+                        <input type="text" id="txtNombre">
                     </td>
                 </tr>
 
@@ -59,7 +58,7 @@
                         Clasificacion: 
                     </td>
                     <td>
-                        <select id="Select1">
+                        <select id="cmbClasif">
                             <option value="0" selected >Seleccione tipo clasif. del cliente</option>
                             <option value="10">Ordinario</option>
                             <option value="5">Especial</option>
@@ -70,7 +69,7 @@
                         Subtotal: 
                     </td>
                     <td>
-                        <input type="text">
+                        <input type="text" id="txtSubTotal">
                     </td>
                 </tr>
                 <tr>
@@ -78,10 +77,10 @@
                 </tr>
                 <tr >
                     <td align="center" class="auto-style2" colspan="2">
-                        <button>Limpiar</button>
+                        <button id="btnLimpiar">Limpiar</button>
                     </td>
                     <td align="center" class="auto-style2" colspan="2">
-                        <button>Procesar</button>
+                        <button id="btnProcesar">Procesar</button>
                     </td>
                 </tr>
                 <tr>
@@ -89,21 +88,22 @@
                 </tr>
                 <tr>
                     <td style="text-align: end;">Procentaje Dscto: </td>
-                    <td><input type="text"></td>
+                    <td><input type="text"  id="txtPorcDsc" readonly  ></td>
                     <td style="text-align: end;">Valor Dscto: </td>
                     <td>
-                        <input type="text">
+                        <input type="text" id="txtVrDsc" readonly >
                     </td>
                 </tr>
                 <tr>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
                     <td style="text-align: end;">Valor a pagar: </td>
-                    <td><input type="text"></td>
+                    <td><input type="text" id="txtVrAPag" readonly></td>
                 </tr>
             </table>
-        </div>
-    </form>
+
+    <script src="Scripts/jquery-3.7.0.js"></script>
+    <script src="Scripts/cltFrmSuprMkd.js"></script>
 </body>
 
 </html>

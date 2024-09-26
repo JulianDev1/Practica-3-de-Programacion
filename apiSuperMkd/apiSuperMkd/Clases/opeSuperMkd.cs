@@ -33,7 +33,7 @@ namespace apiSuperMkd.Clases
             return true;
 
         }
-
+        //
         private void hallarDscto()
         {
             float d = 0;

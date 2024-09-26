@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{643DE383-986E-487A-BCFE-102DA2BDB42F}|webSuperMkd\\webSuperMkd.csproj|c:\\users\\julian\\onedrive\\escritorio\\practica3\\websupermkd\\websupermkd\\frmsupermkd.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{643DE383-986E-487A-BCFE-102DA2BDB42F}|webSuperMkd\\webSuperMkd.csproj|solutionrelative:websupermkd\\frmsupermkd.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{643DE383-986E-487A-BCFE-102DA2BDB42F}|webSuperMkd\\webSuperMkd.csproj|C:\\Users\\Julian\\OneDrive\\Escritorio\\Practica3\\webSuperMkd\\websupermkd\\scripts\\cltfrmsuprmkd.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{643DE383-986E-487A-BCFE-102DA2BDB42F}|webSuperMkd\\webSuperMkd.csproj|solutionrelative:websupermkd\\scripts\\cltfrmsuprmkd.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,15 +18,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             },
             {
               "$type": "Bookmark",
@@ -40,10 +40,22 @@
               "RelativeDocumentMoniker": "webSuperMkd\\frmSuperMkd.html",
               "ToolTip": "C:\\Users\\Julian\\OneDrive\\Escritorio\\Practica3\\webSuperMkd\\webSuperMkd\\frmSuperMkd.html",
               "RelativeToolTip": "webSuperMkd\\frmSuperMkd.html",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAmwGYAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-09-11T00:22:30.517Z",
+              "WhenOpened": "2024-09-25T21:49:34.991Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "cltFrmSuprMkd.js",
+              "DocumentMoniker": "C:\\Users\\Julian\\OneDrive\\Escritorio\\Practica3\\webSuperMkd\\webSuperMkd\\Scripts\\cltFrmSuprMkd.js",
+              "RelativeDocumentMoniker": "webSuperMkd\\Scripts\\cltFrmSuprMkd.js",
+              "ToolTip": "C:\\Users\\Julian\\OneDrive\\Escritorio\\Practica3\\webSuperMkd\\webSuperMkd\\Scripts\\cltFrmSuprMkd.js",
+              "RelativeToolTip": "webSuperMkd\\Scripts\\cltFrmSuprMkd.js",
+              "ViewState": "AgIAADEAAAAAAAAAAAAkwEIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-24T23:20:17.206Z"
             }
           ]
         }

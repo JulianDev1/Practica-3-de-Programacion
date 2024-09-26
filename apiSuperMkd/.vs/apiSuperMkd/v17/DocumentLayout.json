@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Julian\\OneDrive\\Escritorio\\Practica3\\apiSuperMkd\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{393AEAB7-3013-440F-8201-009C38498756}|apiSuperMkd\\apiSuperMkd.csproj|C:\\Users\\Julian\\OneDrive\\Escritorio\\Practica3\\apiSuperMkd\\apisupermkd\\controllers\\servsupermkdcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{393AEAB7-3013-440F-8201-009C38498756}|apiSuperMkd\\apiSuperMkd.csproj|c:\\users\\julian\\onedrive\\escritorio\\practica3\\apisupermkd\\apisupermkd\\controllers\\servsupermkdcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{393AEAB7-3013-440F-8201-009C38498756}|apiSuperMkd\\apiSuperMkd.csproj|solutionrelative:apisupermkd\\controllers\\servsupermkdcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{393AEAB7-3013-440F-8201-009C38498756}|apiSuperMkd\\apiSuperMkd.csproj|C:\\Users\\Julian\\OneDrive\\Escritorio\\Practica3\\apiSuperMkd\\apisupermkd\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{393AEAB7-3013-440F-8201-009C38498756}|apiSuperMkd\\apiSuperMkd.csproj|solutionrelative:apisupermkd\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{393AEAB7-3013-440F-8201-009C38498756}|apiSuperMkd\\apiSuperMkd.csproj|c:\\users\\julian\\onedrive\\escritorio\\practica3\\apisupermkd\\apisupermkd\\models\\modsupermkd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{393AEAB7-3013-440F-8201-009C38498756}|apiSuperMkd\\apiSuperMkd.csproj|solutionrelative:apisupermkd\\models\\modsupermkd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{393AEAB7-3013-440F-8201-009C38498756}|apiSuperMkd\\apiSuperMkd.csproj|C:\\Users\\Julian\\OneDrive\\Escritorio\\Practica3\\apiSuperMkd\\apisupermkd\\clases\\opesupermkd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{393AEAB7-3013-440F-8201-009C38498756}|apiSuperMkd\\apiSuperMkd.csproj|solutionrelative:apisupermkd\\clases\\opesupermkd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{393AEAB7-3013-440F-8201-009C38498756}|apiSuperMkd\\apiSuperMkd.csproj|C:\\Users\\Julian\\OneDrive\\Escritorio\\Practica3\\apiSuperMkd\\apisupermkd\\models\\modsupermkd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{393AEAB7-3013-440F-8201-009C38498756}|apiSuperMkd\\apiSuperMkd.csproj|solutionrelative:apisupermkd\\models\\modsupermkd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -48,27 +44,9 @@
               "RelativeDocumentMoniker": "apiSuperMkd\\Models\\modSuperMkD.cs",
               "ToolTip": "C:\\Users\\Julian\\OneDrive\\Escritorio\\Practica3\\apiSuperMkd\\apiSuperMkd\\Models\\modSuperMkD.cs",
               "RelativeToolTip": "apiSuperMkd\\Models\\modSuperMkD.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAuwAoAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwA0AAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T23:43:08.372Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "WebApiConfig.cs",
-              "DocumentMoniker": "C:\\Users\\Julian\\OneDrive\\Escritorio\\Practica3\\apiSuperMkd\\apiSuperMkd\\App_Start\\WebApiConfig.cs",
-              "RelativeDocumentMoniker": "apiSuperMkd\\App_Start\\WebApiConfig.cs",
-              "ToolTip": "C:\\Users\\Julian\\OneDrive\\Escritorio\\Practica3\\apiSuperMkd\\apiSuperMkd\\App_Start\\WebApiConfig.cs",
-              "RelativeToolTip": "apiSuperMkd\\App_Start\\WebApiConfig.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T00:04:17.554Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-12T23:43:08.372Z"
             },
             {
               "$type": "Document",
@@ -78,20 +56,20 @@
               "RelativeDocumentMoniker": "apiSuperMkd\\Controllers\\servSuperMkdController.cs",
               "ToolTip": "C:\\Users\\Julian\\OneDrive\\Escritorio\\Practica3\\apiSuperMkd\\apiSuperMkd\\Controllers\\servSuperMkdController.cs",
               "RelativeToolTip": "apiSuperMkd\\Controllers\\servSuperMkdController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAlwCUAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-19T23:46:58.091Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "opeSuperMkd.cs",
               "DocumentMoniker": "C:\\Users\\Julian\\OneDrive\\Escritorio\\Practica3\\apiSuperMkd\\apiSuperMkd\\Clases\\opeSuperMkd.cs",
               "RelativeDocumentMoniker": "apiSuperMkd\\Clases\\opeSuperMkd.cs",
               "ToolTip": "C:\\Users\\Julian\\OneDrive\\Escritorio\\Practica3\\apiSuperMkd\\apiSuperMkd\\Clases\\opeSuperMkd.cs",
               "RelativeToolTip": "apiSuperMkd\\Clases\\opeSuperMkd.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAowA4AAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAApwCAAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-12T23:57:18.078Z"
             }
